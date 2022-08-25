@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\bin\Debug\net6.0\MusicalInstrument.exe
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\bin\Debug\net6.0\MusicalInstrument.deps.json
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\bin\Debug\net6.0\MusicalInstrument.runtimeconfig.json
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\bin\Debug\net6.0\MusicalInstrument.dll
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\bin\Debug\net6.0\MusicalInstrument.pdb
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.dll
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\refint\MusicalInstrument.dll
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.pdb
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\MusicalInstrument.genruntimeconfig.cache
+C:\Users\HP\Desktop\PypTasks\MusicalInstrument\MusicalInstrument\obj\Debug\net6.0\ref\MusicalInstrument.dll
